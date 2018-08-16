@@ -1,6 +1,6 @@
 # ![42](screenshots/42.png)
 ## FdF (stands for "Fils de Fer", translated "Wireframes")
-The objective of the project was to render a wireframe representation of landforms. It was an individual school project, made from scratch and entirely in C.
+The objective of the project was to render wireframe representations of landforms. It was an individual school project, made from scratch and entirely in C.
 
 ## Installing
 #### Mac only portability.
