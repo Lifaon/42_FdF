@@ -1,3 +1,4 @@
+# ![42](screenshots/42.png)
 ## FdF (stands for "Fils de Fer", translated "Wireframes")
 The objective of the project was to render a wireframe representation of landforms. It was an individual school project, made from scratch and entirely in C.
 
@@ -30,3 +31,6 @@ Different **maps** are available in the directory with the same name
 - **` SPACE `** to reset everything
 
 ## Screenshots
+# ![Julia](screenshots/Julia.png)
+# ![Mandelbrot](screenshots/Mandelbrot.png)
+# ![France](screenshots/France.png)
