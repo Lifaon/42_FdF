@@ -1,5 +1,6 @@
 # ![42](screenshots/42.png)
 ## FdF (stands for "Fils de Fer", translated "Wireframes")
+Made during **_february 2018._**<br>
 The objective of the project was to render wireframe representations of landforms. It was an individual school project, made from scratch and entirely in C.
 
 ## Installing
